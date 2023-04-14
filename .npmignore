@@ -1,0 +1,12 @@
+.gitignore
+
+src/
+scripts/
+
+tsconfig.json
+
+package-lock.json
+yarn.lock
+
+npm-error.log
+yarn-error.log
